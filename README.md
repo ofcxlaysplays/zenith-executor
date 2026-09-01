@@ -31,5 +31,5 @@
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/zenith-executor.git
+git clone https://github.com/ofcxlaysplays/zenith-executor.git
 cd zenith-executor
